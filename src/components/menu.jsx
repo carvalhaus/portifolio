@@ -1,6 +1,6 @@
 function Menu() {
   return (
-    <ul className="flex gap-10 items-center text-2xl font-light">
+    <ul className="flex gap-10 items-center text-2xl font-light w-full justify-end max-md:hidden">
       <li>Sobre mim</li>
       <li>Projetos</li>
       <li>
